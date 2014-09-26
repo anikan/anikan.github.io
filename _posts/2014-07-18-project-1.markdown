@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+title: Legacy Dungeon
+img: LegacyDungeon.png
+alt: image-alt
+project-date: May 2014 - Ongoing
+client: For Fun
+category: Game development
+description: A dungeon crawler involving random generation.
+
+---
