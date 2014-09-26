@@ -5,8 +5,10 @@ date: 2014-07-18
 title: Legacy Dungeon
 img: LegacyDungeon.png
 alt: image-alt
+link: "http://www.github.com/DontSuCharlie/LegacyDungeon"
 project-date: May 2014 - Ongoing
-client: For Fun
+client: kappa
+reason: For Fun
 category: Game development
 description: A dungeon crawler involving random generation.
 
