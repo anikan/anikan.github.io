@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2014-10-05
+title: Fixey (CalHacks 2014)
+img: fixey.png
+alt: image-alt
+link: "http://www.fixey.herokuapp.com"
+project-date: 10/4/14 - 10/5/14
+client: CalHacks
+reason: For Fun
+category: Web Development
+description: As people who are avid bikers, we were frustrated by the inability of Google Maps to combine public transit and biking directions together to give you the most efficient way to get from point a to point b. Through Fixey, you can get the best path by combining transit directions with biking directions if a bike will provide a more efficient way. We hope to encourage more healthy and environmentally friendly behaviour by showing estimated savings in gas and carbon dioxide emissions based on the directions. We used Google Map's API to get the directions along with Leaflet, Mapbox and D3.JS to provide an appealing visualization of your results.
+
+---
