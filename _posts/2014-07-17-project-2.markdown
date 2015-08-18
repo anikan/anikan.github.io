@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-title: Laser
-img: QMark.jpg
+date: 2015-08-09
+title: Psychic
+img: psychic.png
 alt: image-alt
-link: "http://www.github.com/anikan/Laser"
-project-date: September 2014 - Ongoing
+link: "http://www.kongregate.com/games/robot1110/psychic"
+project-date: July 2015 - August 2015
 reason: For Fun
 category: Game Development
-description: A small game used to test mouse listener functionality in Java and perhaps the process of creating Android Applications.
+description: A first person action game where you must use psychic powers of telekinesis and leaping. A remake of a hackathon project that used VR and the Leap Motion.
 
 ---
